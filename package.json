@@ -20,6 +20,7 @@
   "homepage": "https://github.com/gabrieljuninho/strive-api#readme",
   "devDependencies": {
     "@types/express": "^4.17.21",
+    "prettier": "3.2.5",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.4"
   },
